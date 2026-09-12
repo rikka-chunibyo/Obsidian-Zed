@@ -1,0 +1,7 @@
+id = "obsidian-theme"
+name = "Obsidian Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Fernando Jiménez (original theme)"]
+description = "A faithful Zed port of the Obsidian dark and Obsidian Bright IntelliJ themes."
+repository = "https://github.com/luisfer0793/theme-obsidian"
